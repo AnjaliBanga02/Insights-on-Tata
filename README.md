@@ -20,7 +20,7 @@ Before you can begin the analysis, make sure that the data is cleaned properly. 
 Please note that in order to apply the checks that have been mentioned above, you would need to use conditional formulas where the logic would state that if the conditions are met then the tool should exclude the data from analysis. You can also use data transformation methods to get rid of the bad data. Both these methods are provided in the resources. Once this is done, the data will be good to be used for further analysis. Please note that this data should be cleaned up before attempting any question.Create each visual on a separate tab with the name of the tab displaying the question number. Once the visuals are created, save the files and upload them below. 
 
 ## Data set
-Source: <a herf="https://github.com/AnjaliBanga02/Insights-on-Tata/blob/main/Online%20Retail%20Data%20Set.xlsx">Dataset</a>
+- <a herf="https://github.com/AnjaliBanga02/Insights-on-Tata/blob/main/Online%20Retail%20Data%20Set.xlsx">Dataset</a>
 Time Period: 2011
 Data Cleaning Steps:
 Removed rows where Quantity < 1
