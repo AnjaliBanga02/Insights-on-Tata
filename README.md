@@ -21,9 +21,13 @@ Please note that in order to apply the checks that have been mentioned above, yo
 
 ## Data set
 Source = <a href="https://github.com/AnjaliBanga02/Insights-on-Tata/blob/main/Online%20Retail%20Data%20Set.xlsx">Dataset</a>
+
 Time Period: 2011
+
 Data Cleaning Steps:
+
 Removed rows where Quantity < 1
+
 Ensured Unit Price >= 0
 
 Question 1
