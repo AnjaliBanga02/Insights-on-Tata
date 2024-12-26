@@ -50,7 +50,7 @@ The CEO is looking to gain insights on the demand for their products. He wants t
 
 <a href="https://github.com/AnjaliBanga02/Insights-on-Tata/blob/main/Screenshot%202024-12-26%20210917.png">Solution</a>
 
-Dashboard interaction  <a href="file:///D:/my/powerbi/Online%20retail%20store.pdf">View Dashboard</a>
+Dashboard interaction  <a href="https://drive.google.com/file/d/1BvyvatIPQ15XCOEHMpKBocZaMThD6tjM/view?usp=drive_link">View Dashboard</a>
 
 ![Screenshot 2024-12-26 210754](https://github.com/user-attachments/assets/5649ec3e-a21f-428b-b202-a80b64718470)
 ![Screenshot 2024-12-26 210822](https://github.com/user-attachments/assets/e146bb92-25e7-4665-9b7b-6cbbf79d4f1e)
